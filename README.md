@@ -88,7 +88,7 @@
 
 ### Description of the Challenge
 
-![simple view of SDC 2024](simple_sdc_view.jpg)
+![simple view of SDC 2024](SDC_simple_view.jpg)
 
 # Misc choices
 
